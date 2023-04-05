@@ -1,18 +1,20 @@
 # CSharp1 Português/English
 
 Projeto nível 'F', aplicação .NET Console em C# para cadastros de pessoa para fazer depósitos. Esta aplicação engloba:
-Cadastro
-Leituda de dados
-Exclusão
-Alterar disponibilidade de depósito
-Mudar Senha
+Cadastro,
+Leitura de dados,
+Exclusão,
+Alterar disponibilidade de depósito,
+Mudar Senha,
 Mudar idioma
 
 Por ser um projeto nível 'F', não foi usado:
 - Try-catches
 - Arquivos/Bancos de dados
 - Classes/Métodos e Funções
-Este projeto abrange:
+- POO
+
+Este projeto utiliza:
 Console ReadLine, WriteLine, Clear
 Comentários //, /**/
 Tipos de dados int, double, string, string[], string[,], bool
@@ -28,18 +30,20 @@ Break; Continue;
 --------------------------------------------------------------------
 
 Level 'F' project, .NET Console application in C# for person registrations to make deposits. This application encompasses:
-Register
-data reading
-Exclusion
-Change deposit availability
-Change Password
+Register,
+data reading,
+Exclusion,
+Change deposit availability,
+Change Password,
 Change language
 
 Being an 'F' level project, it was not used:
 - Try-catches
 - Files/Databases
 - Classes/Methods and Functions
-This project covers:
+- OOP
+
+This project uses:
 Console ReadLine, WriteLine, Clear
 Comments //, /**/
 Data Types int, double, string, string[], string[,], bool
