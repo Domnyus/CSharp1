@@ -1,0 +1,8 @@
+C:\Users\aeoxh\OneDrive\Área de Trabalho\Portfolio\CSharp1\bin\Debug\CSharp1.exe.config
+C:\Users\aeoxh\OneDrive\Área de Trabalho\Portfolio\CSharp1\bin\Debug\CSharp1.exe
+C:\Users\aeoxh\OneDrive\Área de Trabalho\Portfolio\CSharp1\bin\Debug\CSharp1.pdb
+C:\Users\aeoxh\OneDrive\Área de Trabalho\Portfolio\CSharp1\obj\Debug\CSharp1.csproj.AssemblyReference.cache
+C:\Users\aeoxh\OneDrive\Área de Trabalho\Portfolio\CSharp1\obj\Debug\CSharp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\aeoxh\OneDrive\Área de Trabalho\Portfolio\CSharp1\obj\Debug\CSharp1.csproj.CoreCompileInputs.cache
+C:\Users\aeoxh\OneDrive\Área de Trabalho\Portfolio\CSharp1\obj\Debug\CSharp1.exe
+C:\Users\aeoxh\OneDrive\Área de Trabalho\Portfolio\CSharp1\obj\Debug\CSharp1.pdb
